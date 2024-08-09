@@ -1,5 +1,5 @@
 # Mount-MS-DOS-Partition (FAT 32)
-Mount-MS-DOS-Partition in macOS Sequoia 15
+Mount-MS-DOS-Partition in macOS Sequoia 15 (BETA)
 
 - Credit Apple FSKIT [FSKIT](https://developer.apple.com/documentation/fskit)
 
