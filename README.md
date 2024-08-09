@@ -1,6 +1,10 @@
 # Mount-MS-DOS-Partition (FAT 32)
 Mount-MS-DOS-Partition in macOS Sequoia 15 (BETA)
 
+For those wondering what's going on in Sequoia and partition mounting
+FSKit is the new framework introduced in macOS Sequoia that enables the developer to provide custom filesystem support from user space. 
+The document is almost non-existent at the moment so here my command is a sample project to show how to use the framework.
+
 - Credit Apple FSKIT [FSKIT](https://developer.apple.com/documentation/fskit)
 
 [How file systems can change in Sequoia with FSKit](https://eclecticlight.co/2024/06/26/how-file-systems-can-change-in-sequoia-with-fskit/)
