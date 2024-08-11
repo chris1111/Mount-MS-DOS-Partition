@@ -9,6 +9,8 @@ The document is almost non-existent at the moment so here my command is a sample
 
 [How file systems can change in Sequoia with FSKit](https://eclecticlight.co/2024/06/26/how-file-systems-can-change-in-sequoia-with-fskit/)
 
+### Follow this before downloading ➤ [Allow applications](https://github.com/chris1111/Mount-MS-DOS-Partition/blob/Master/Debug.md)
+
 Download Command ➥ [Mount-MS-DOS-Partition](https://github.com/chris1111/Mount-MS-DOS-Partition/raw/Master/Mount-MSDOS-Partition.tool.zip)
 
 ![Screenshot](https://github.com/user-attachments/assets/ee8a1e39-a293-46aa-a857-e725ca7eb095)
