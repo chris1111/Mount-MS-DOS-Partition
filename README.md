@@ -16,4 +16,4 @@ Download Command ➥ [Mount-MS-DOS-Partition](https://github.com/chris1111/Mount
 
 Download App ➥ [Mount-MS-DOS-Partition](https://github.com/chris1111/Mount-MS-DOS-Partition/raw/Master/Mount-MS-DOS-Partition.app.zip)
 
-![Screenshot 1](https://github.com/user-attachments/assets/7999166b-a4a7-4f98-aee7-518ce2818b78)
+![Screenshot 1](https://github.com/user-attachments/assets/14d71d44-90c4-4f83-858a-332b7bfe810c)
