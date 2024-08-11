@@ -11,6 +11,4 @@ The document is almost non-existent at the moment so here my command is a sample
 
 Download ➥ [Mount-MS-DOS-Partition](https://github.com/chris1111/Mount-MS-DOS-Partition/raw/Master/Mount-MS-DOS-Partition.zip)
 
-
-
 ![Screenshot](https://github.com/user-attachments/assets/ee8a1e39-a293-46aa-a857-e725ca7eb095)
